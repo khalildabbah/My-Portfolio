@@ -1,12 +1,8 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# React JS Resume Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+## Portfolio Description
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
-
-## Resume Starter Pack Description
-
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+This portfolio is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. 
 
 ## 1. Make sure you have NODE installed!
 
@@ -16,7 +12,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
+`git clone https://github.com/khalildabbah/My-Portfolio.git`
 
 ## 3. Install Dependancies
 
@@ -50,8 +46,3 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 
 🚀 BOOM, you are now LIVE!!!
 
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>

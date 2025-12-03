@@ -14,7 +14,7 @@
       "state": "Hazafon"
     },
     "website": "https://www.khalildabbah.com",
-    "resumedownload": "http://khalildabbah.com",
+    "resumedownload": "KhalilDabbah11.pdf",
     "social": [
       {
         "name": "facebook",
@@ -49,10 +49,10 @@
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Software Engineer in Progress",
+        "title": "Aspiring Software Engineer",
+        "years": " Present",
+        "description": "Actively building software projects through hands-on development, debugging, and iteration. Focused on strong fundamentals and becoming industry-ready."
       }
     ],
     "skills": [
@@ -68,15 +68,15 @@
         "name": "Python",
         "level": "85%"
       },
-      
+      {
+        "name": "Github",
+        "level": "80%"
+      },
       {
         "name": "C",
         "level": "80%"
       },
-      {
-        "name": "Github",
-        "level": "70%"
-      },
+      
       {
         "name": "Web Development(Html, Css, Js)",
         "level": "80%"
@@ -86,35 +86,36 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "ML Movie recommendation engine",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "Screenshot1.png",
+        "url": "https://github.com/khalildabbah/ML-Movie-Recommender"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Wine Store Management System",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "wineStore.jpg.webp",
+        "url": "https://github.com/khalildabbah/Wine_Store_System"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Weather App",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "screenshot2.png",
+        "url": "https://github.com/khalildabbah/Weather_App"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Success is a lousy teacher. It seduces smart people into thinking they can’t lose.”",
+        "user": "Bill Gates"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Move fast, break things. Unless you are breaking stuff, you are not moving fast enough.",
+        "user": "Mark Zuckerberg"
       }
+      
     ]
   }
 }
