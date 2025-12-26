@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Khalil Dabbah",
-    "occupation": "Software Engineer Student",
+    "occupation": "Computer Information Systems Student",
     "description": "I eat, sleep and build projects",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I'm Khalil Dabbah, a student software engineer and full-stack developer with a strong passion for building impactful systems and continuously expanding my skills. I’ve worked on a variety of technical projects ranging from backend systems and databases to complete full-stack applications. Along the way, I discovered that I truly enjoy helping others grow and understand complex technical concepts in a simple, practical way. Through sharing knowledge, collaborating on projects, and creating real-world software solutions, I aim to inspire other developers to push beyond their limits and grow professionally. I focus on hands-on learning, real projects, and practical problem-solving to prepare for success in the tech industry. My goal is to keep learning, building, and contributing to meaningful projects that make a real difference.",
+    "bio": "Hi there! I'm Khalil Dabbah, a Computer Information Systems Student and full-stack developer with a strong passion for building impactful systems and continuously expanding my skills. I’ve worked on a variety of technical projects ranging from backend systems and databases to complete full-stack applications. Along the way, I discovered that I truly enjoy helping others grow and understand complex technical concepts in a simple, practical way. Through sharing knowledge, collaborating on projects, and creating real-world software solutions, I aim to inspire other developers to push beyond their limits and grow professionally. I focus on hands-on learning, real projects, and practical problem-solving to prepare for success in the tech industry. My goal is to keep learning, building, and contributing to meaningful projects that make a real difference.",
     "contactmessage": "Get in touch with me and let's connect",
     "email": "khalildabbah@gmail.com",
     "phone": "+972502852944",
@@ -43,7 +43,7 @@
     "education": [
       {
         "school": "Haifa University",
-        "degree": "Bachelor's Degree, Information Systems Engineering"
+        "degree": "Bachelor's Degree, Computer Information Systems "
         
       }
     ],
@@ -69,7 +69,11 @@
         "level": "85%"
       },
       {
-        "name": "Github",
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript ,Typescript, React",
         "level": "80%"
       },
       {
@@ -100,9 +104,20 @@
       {
         "title": "Weather App",
         "category": "",
-        "image": "screenshot2.png",
+        "image": "weather-app.webp",
         "url": "https://github.com/khalildabbah/Weather_App"
+      },
+      {
+        "title": "AI newsletter TLDR saas app",
+        "category": "",
+        "image": "landing-page.png",
+        "url": "https://github.com/khalildabbah/AI-newsletter-saas"
       }
+
+
+
+
+
     ]
   },
   "testimonials": {
