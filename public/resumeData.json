@@ -90,6 +90,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "AI newsletter TLDR saas app",
+        "category": "",
+        "image": "landing-page.png",
+        "url": "https://github.com/khalildabbah/AI-newsletter-saas"
+      },
+      {
         "title": "ML Movie recommendation engine",
         "category": "",
         "image": "Screenshot1.png",
@@ -106,17 +112,7 @@
         "category": "",
         "image": "weather-app.png",
         "url": "https://github.com/khalildabbah/Weather-App"
-      },
-      {
-        "title": "AI newsletter TLDR saas app",
-        "category": "",
-        "image": "landing-page.png",
-        "url": "https://github.com/khalildabbah/AI-newsletter-saas"
       }
-
-
-
-
 
     ]
   },
